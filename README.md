@@ -1,4 +1,4 @@
-## Project Name
+## Simple Company Portfolio
 Reactified Portfolio Website Template
 
 ## Installation and Setup Instructions
