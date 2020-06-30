@@ -13,3 +13,5 @@ To Start Server: npm start
 ## Reflection
 I wanted to experiment with a portfolio website that uses bootstrap, based in React.
 I made sure to break down each section into components so i can use them on other projects.
+
+permalink: /index.html
