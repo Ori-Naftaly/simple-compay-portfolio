@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/simple-compay-portfolio/static/css/main.d5e436b9.chunk.css",
+    "main.js": "/simple-compay-portfolio/static/js/main.209e9ff1.chunk.js",
+    "main.js.map": "/simple-compay-portfolio/static/js/main.209e9ff1.chunk.js.map",
+    "runtime-main.js": "/simple-compay-portfolio/static/js/runtime-main.dd4333a5.js",
+    "runtime-main.js.map": "/simple-compay-portfolio/static/js/runtime-main.dd4333a5.js.map",
+    "static/js/2.27d7b6bf.chunk.js": "/simple-compay-portfolio/static/js/2.27d7b6bf.chunk.js",
+    "static/js/2.27d7b6bf.chunk.js.map": "/simple-compay-portfolio/static/js/2.27d7b6bf.chunk.js.map",
+    "index.html": "/simple-compay-portfolio/index.html",
+    "precache-manifest.be39c7a3e67a9279552595d2058ec2f9.js": "/simple-compay-portfolio/precache-manifest.be39c7a3e67a9279552595d2058ec2f9.js",
+    "service-worker.js": "/simple-compay-portfolio/service-worker.js",
+    "static/css/main.d5e436b9.chunk.css.map": "/simple-compay-portfolio/static/css/main.d5e436b9.chunk.css.map",
+    "static/js/2.27d7b6bf.chunk.js.LICENSE.txt": "/simple-compay-portfolio/static/js/2.27d7b6bf.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/simple-compay-portfolio/static/media/map-image.f40ed5b1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dd4333a5.js",
+    "static/js/2.27d7b6bf.chunk.js",
+    "static/css/main.d5e436b9.chunk.css",
+    "static/js/main.209e9ff1.chunk.js"
+  ]
+}
